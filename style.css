@@ -230,3 +230,24 @@ nav{
     text-align: center;
     padding: 15px;
 }
+
+/*Second Page Features page*/
+
+.logo-img{
+    width: 100px;
+    height: 80px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20%;
+}
+.hero-img img{
+    width: 100%;
+    height: 200px;
+    border-radius: 5%;
+}
+.feature-img img{
+    width: 100%;
+    height: 147px;
+    border-radius: 10px;
+    
+}
