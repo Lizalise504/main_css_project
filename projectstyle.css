@@ -170,6 +170,97 @@ nav{
     font-size: 18px;
     color: #1f2937;
 }
+
+/*quote section*/
+h2{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #1f2937;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.quote{
+    width: 95%;
+    height: 330px;
+    margin: auto;
+    margin-bottom: 20px;
+    color: #1f2937;
+    background: linear-gradient(rgba(159, 160, 158, 0.829),rgba(194, 191, 197, 0.5)),url(./images/tree.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.quote-text{
+    text-align: center;
+    margin: 5px;
+    padding: 30px 60px;
+    
+}
+.quote-text p{
+    width: 88%;
+    font-size: 36px;
+    font-weight: normal;
+    color: #1f2937;
+    text-align: left;
+    margin: 50px 90px;
+    padding: 10px;
+}
+.quote span{
+    top: 75%;
+    right: 20%;
+    position: absolute;
+}
+/*Action Section*/
+.action{
+    width: 95%;
+    margin: 20px auto;
+    padding: 40px;
+    text-align: left;
+}
+.action-row{
+    display: flex;
+    width: 90%;
+    height: 90px;
+    margin: auto;
+    justify-content: space-between;
+    background-color: #3882f6;
+    border-radius: 5px;
+}
+.action-col{
+    flex-basis: 70%;
+    padding: 30px 50px;
+}
+.action-col h5{
+    color: #f9faf8;
+    padding-left: 50px;
+    margin: auto;
+}
+.action-col p{
+    color: #f9faf8;
+    padding-left: 50px;
+}
+.action-btn{
+    flex-basis: 30%;
+    text-align: center;
+    padding: 25px;
+}
+.btn{
+    width: 90px;
+    background-color: #3882f6;
+    border-radius: 5px;
+    border: 1px solid #f9faf8;
+    color: #e5e7eb;
+    padding: 5px;
+    margin: 10px 0px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn:hover{
+    color: #3882f6;
+    transition: 0.4s;
+    background-color: #e5e7eb;
+}
 .footer-text{
     width: 95%;
     height: 50px;

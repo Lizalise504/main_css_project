@@ -159,6 +159,7 @@ nav{
     width: 95%;
     margin: auto;
     margin-bottom: 20px;
+    position: relative;
 }
 .quote-text{
     text-align: center;
@@ -175,14 +176,10 @@ nav{
     margin: 50px 90px;
     padding: 10px;
 }
-.quote-name{
-    width: 95%;
-    text-align: right;
-    margin-bottom: 10px;
-}
-.quote-name h5{
-    padding-right: 70px;
-    margin-top: -50px;
+.quote span{
+    top: 75%;
+    right: 20%;
+    position: absolute;
 }
 
 /*Action Section*/
