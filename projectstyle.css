@@ -118,8 +118,8 @@ nav{
     margin-right: 40px;
 }
 .hero-img img{
-    width: 410px;
-    height: 210px;
+    width: 100%;
+    height: 200px;
     border-radius: 5%;
 }
 .hero-img p{
