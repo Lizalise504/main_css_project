@@ -211,6 +211,8 @@ h2{
 .quote span{
     top: 75%;
     right: 20%;
+    font-size: 24px;
+    font-weight: bold;
     position: absolute;
 }
 /*Action Section*/
