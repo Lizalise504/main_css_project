@@ -15,9 +15,9 @@
     font-weight: normal;
 }
 header{
-    width: 95%;
+    width: 100%;
     min-height: 70vh;
-    margin: 20px 50px;
+    /*margin: 20px 50px;*/
     background-color: rgb(31, 41, 55);
 }
 nav{
@@ -117,7 +117,7 @@ nav{
 
 /*Features section*/
 .feature{
-    width: 95%;
+    width: 100%;
     height: 50%;
     margin: auto;
     text-align: center;
@@ -156,7 +156,7 @@ nav{
 
 /*quote section*/
 .quote{
-    width: 95%;
+    width: 100%;
     margin: auto;
     margin-bottom: 20px;
     position: relative;
@@ -186,7 +186,7 @@ nav{
 
 /*Action Section*/
 .action{
-    width: 95%;
+    width: 100%;
     margin: 20px auto;
     padding: 40px;
     text-align: left;
@@ -235,7 +235,7 @@ nav{
     background-color: #e5e7eb;
 }
 .footer-text{
-    width: 95%;
+    width: 100%;
     height: 50px;
     margin: auto;
     margin-bottom: 15px;
@@ -246,21 +246,5 @@ nav{
     text-align: center;
     padding: 15px;
 }
-.link{
-    width: 130px;
-    margin: auto;
-    margin-bottom: 20px;
-    border-radius: 10px;
-}
-.link a{
-    text-decoration: none;
-    width: 90px;
-    background-color: #3882f6;
-    border-radius: 5px;
-    border: 1px solid #f9faf8;
-    color: #e5e7eb;
-    padding: 5px;
-    margin: 10px 0px;
-    font-weight: bold;
-}
+
 
