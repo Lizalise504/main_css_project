@@ -16,8 +16,7 @@
 }
 header{
     width: 100%;
-    min-height: 70vh;
-    /*margin: 20px 50px;*/
+    min-height: 65vh;
     background-color: rgb(31, 41, 55);
 }
 nav{
@@ -132,8 +131,9 @@ nav{
     display: flex;
     align-items: center;
     margin: auto;
-    width: 80%;
+    width: 70%;
     justify-content: space-between;
+    margin-bottom: 80px;
 }
 figure{
     flex-basis: 20%;
@@ -149,6 +149,7 @@ figure img{
     border-radius: 7px;
 }
 figcaption{
+    text-align: center;
     font-size: 18px;
     color: #1f2937;
 }
