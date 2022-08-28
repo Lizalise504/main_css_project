@@ -184,6 +184,7 @@ h2{
     margin: auto;
     margin-bottom: 20px;
     color: #1f2937;
+    border: 2px solid #e5e7eb;
     background: linear-gradient(rgba(159, 160, 158, 0.829),rgba(194, 191, 197, 0.5)),url(./images/tree.jpg);
     background-position: center;
     background-size: cover;
